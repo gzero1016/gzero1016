@@ -22,6 +22,10 @@ Here are some ideas to get you started:
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/o______og/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <a href="mailto:gzero1016@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 
 
 <h1>🔨 I've used it 🔨</h1></div>
