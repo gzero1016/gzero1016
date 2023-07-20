@@ -9,7 +9,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>    
 <a href="mailto:gero1016@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gero1016@gamil.com"/></a>
 
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgzero1016&count_bg=%23000000&title_bg=%23000000&icon=github.gzero1016&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
     </a>
 </div><br>
 
