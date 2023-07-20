@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20jiyoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=65&fontAlign=67&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=jiyoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=65&fontAlign=78&height=200)
+
+<div align='center'>
+<h4>🙌 Welcom 🙌</h4>
+<h4>Backend Developer👩‍💻</h4>
+<h4>I'm a growing sprout🌱</h4>
+</div><br>
 
 <div align='center'>
 <h4>📞 Contact 📞</h4>
@@ -14,20 +20,17 @@
 
 <div align='center'>
 <h4>🔨 I've used it 🔨</h4>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?flat-square&logo=javascript&logoColor=black"> 
 <br/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 <br/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<br/>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-<br/>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/amazon aws-232F3E?flat-square&logo=amazonaws&logoColor=white"> 
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div><br>
 
 <!---
