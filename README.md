@@ -10,7 +10,7 @@
 <h4>📞 Contact 📞</h4>
 <a href="https://www.instagram.com/o______og">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/o______og/"
+        src="http://img.shields.io/badge/-o______og-black?style=flat&logo=Instagram&link=https://www.instagram.com/o______og/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <a href="mailto:gero1016@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-false&logo=Gmail&logoColor=white&link=gero1016@gamil.com"/></a>
 
