@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?flat-square&logo=javascript&logoColor=black"> 
 <br/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
