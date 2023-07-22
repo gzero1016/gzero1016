@@ -18,7 +18,7 @@
 </div><br>
 
 <div align='center'>
-<h4>🔨 I've used it 🔨</h4>
+<h4>✏️ learned ✏️</h4>
     <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
