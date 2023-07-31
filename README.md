@@ -20,7 +20,7 @@
 
 <div align='center'>
 <h4>✍🏻 have used it ✍🏻</h4>
-    <img src="https://img.shields.io/badge/Java-3766AB?style=flat-false&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-false&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-false&logo=Python&logoColor=white"/></a>&nbsp 
   <br/>
