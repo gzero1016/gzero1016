@@ -33,3 +33,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-false&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-false&logo=git&logoColor=white">
 </div><br>
+
+<div align='center'>
+    
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzero1016&layout=compact&theme=dracula)](https://github.com/gzero1016/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzero1016&layout=compact&theme=dracula)
+</div><br>
