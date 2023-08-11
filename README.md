@@ -1,11 +1,9 @@
-<!---
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=jiyoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=65&fontAlign=78&height=200)
-
-<div align='center'>
-<h4>🙌 Welcom 🙌</h4>
-<h4>Backend Developer👩‍💻</h4>
-<h4>I'm a growing sprout🌱</h4>
-</div><br>
+<img align="left" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+  
+<h4 align="left">🐣Gzero🐣</h4>
+<h6 align="left">Backend Developer👩‍💻</h6>
+<h6 align="left">I'm a growing sprout🌱</h6>
+<br>
 
 <div align='center'>
 <h4>📞 Contact 📞</h4>
@@ -33,10 +31,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-false&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-false&logo=git&logoColor=white">
 </div><br>
+<br>
+<br>
 
-<div align='center'>
-
-<!--
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzero1016&layout=compact&theme=dracula)](https://github.com/gzero1016/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzero1016&layout=compact&theme=dracula)
+<div align='left'>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzero1016&layout=compact&theme=nord)
 </div><br>
+<!---
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzero1016&layout=compact&theme=nord)](https://github.com/gzero1016/github-readme-stats)
