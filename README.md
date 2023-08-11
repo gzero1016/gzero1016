@@ -6,19 +6,7 @@
   <h6 align="center">Backend Developer👩‍💻</h6>
   <h6 align="center">I'm a growing sprout🌱</h6>
 </div>
-<br/>
-
-<div align='center'>
-<h5>📞 Contact 📞</h5>
-<a href="https://www.instagram.com/o______og">
-    <img 
-        src="http://img.shields.io/badge/- Instagram -black?style=flat&logo=Instagram&link=https://www.instagram.com/o______og/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<a href="mailto:gzero1016@gmail.com"><img src="https://img.shields.io/badge/ Gmail -d14836?style=flat-false&logo=Gmail&logoColor=white&link=gzero1016@gmail.com"/></a>
-
-</div>
-<br/>
-
+<br/> 
 <div align='center'>
 <h5>✍🏻 have used it ✍🏻</h5>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -33,7 +21,15 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-false&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-false&logo=git&logoColor=white">
 </div>
-
+<br/> 
+<div align='center'>
+<h5>📞 Contact 📞</h5>
+<a href="https://www.instagram.com/o______og">
+    <img 
+        src="http://img.shields.io/badge/- Instagram -black?style=flat&logo=Instagram&link=https://www.instagram.com/o______og/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="mailto:gzero1016@gmail.com"><img src="https://img.shields.io/badge/ Gmail -d14836?style=flat-false&logo=Gmail&logoColor=white&link=gzero1016@gmail.com"/></a>
+</div>
 <!---
 <div align='center'>
     
