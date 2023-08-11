@@ -1,4 +1,4 @@
-
+<!---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=jiyoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=65&fontAlign=78&height=200)
 
 <div align='center'>
@@ -17,7 +17,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgzero1016%2Fhit-counter&count_bg=%23D65A5A&title_bg=%23060606&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 </div><br>
-<!---
+
 <div align='center'>
 <h4>✍🏻 have used it ✍🏻</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
