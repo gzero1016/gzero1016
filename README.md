@@ -1,4 +1,4 @@
-<!---
+
 <div align='center'>
   <h4 align="center">
     🐣Gzero🐣
@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-false&logo=Spring Boot&logoColor=yellow">
 <br/>
 
+<!--
 <h6 align="center"> 🛠️ Tools </h6>
 <div align="center">
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
@@ -36,7 +37,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-false&logo=git&logoColor=white">
 </div>
-
+-->
 <br/> 
 <div align='center'>
 <h5>📞 Contact 📞</h5>
