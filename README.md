@@ -1,7 +1,7 @@
 
 <div align='center'>
   <h4 align="center">
-    #🐣Gzero🐣 
+    🐣Gzero🐣  
     <img width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
   </h4>
   <h6 align="center">Backend Developer👩‍💻</h6>
