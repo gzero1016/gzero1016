@@ -1,4 +1,4 @@
-
+<!---
 <div align='center'>
   <h4 align="center">
     🐣Gzero🐣  
@@ -16,14 +16,21 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-false&logo=Python&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/c-white?style=flat-false&logo=c%2B%2B&logoColor=0052CC">
-<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Node.js&logoColor=0052CC"/>
 <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-false&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-false&logo=html5&logoColor=white"> 
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-f1d8d9?style=flat-false&logo=oracle&logoColor=4479A1">
+<br/>
+<img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Node.js&logoColor=0052CC"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-false&logo=Spring Boot&logoColor=yellow">
+<br/>
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-false&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-false&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-false&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat-false&logo=git&logoColor=white">
 <br/>
 
 <!--
