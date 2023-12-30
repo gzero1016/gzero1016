@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-false&logo=git&logoColor=white">
 <br/>
 
-<!--
+
 <h6 align="center"> 🛠️ Tools </h6>
 <div align="center">
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
