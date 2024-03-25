@@ -9,6 +9,13 @@
 </div>
 <br/> 
 
+<div align="center">
+  <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/ded6e295-295e-48a8-be46-6122032dd707"/>
+  <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/9de78ded-2323-41c3-a63d-17085414ded5"/>
+  <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/b2857981-1749-4134-ab45-b8a32b6306c1"/>
+</div>
+<br/> 
+
 <div align='center'>
 <h4 style="font-weight: bold" align="center"> 🌱 Tech Stack 🌱 </h4>
 <h6 align="center"> ⚡ Platforms & Languages <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" /></h6>
@@ -31,6 +38,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-false&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-false&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-false&logo=git&logoColor=white">
+
 <br/>
 
 <!---
