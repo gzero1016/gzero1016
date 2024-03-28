@@ -14,7 +14,8 @@
   <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/9de78ded-2323-41c3-a63d-17085414ded5"/>
   <img width="65" src="https://github.com/dpung1/dpung1/assets/137989661/b2857981-1749-4134-ab45-b8a32b6306c1"/>
 </div>
-<br/> 
+<br/> [사업자사실증명.pdf](https://github.com/gzero1016/gzero1016/files/14782580/default.pdf)
+
 
 <div align='center'>
 <h4 style="font-weight: bold" align="center"> 🌱 Tech Stack 🌱 </h4>
